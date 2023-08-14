@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "d:/dev/mEngine",
+    "command": "clang-tool -fms-extensions -fms-compatibility -fms-compatibility-version=19  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/atlmfc/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/VS/include\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/ucrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/um\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/shared\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/winrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/cppwinrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Include/um\"  -D _DEBUG  -D _MT  -D _DLL  -D ME_PLATFORM_WINDOWS  -D ME_BUILD_DLL  -D _WINDLL  -D _UNICODE  -D UNICODE -std=c++17  \"d:/dev/mEngine/mEngine/src/Engine/Application.cpp\"",
+    "file": "d:/dev/mEngine/mEngine/src/Engine/Application.cpp"
+  },
+  {
+    "directory": "d:/dev/mEngine",
+    "command": "clang-tool -fms-extensions -fms-compatibility -fms-compatibility-version=19  -isystem \"d:/dev/mEngine/mEngine/src\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/atlmfc/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Auxiliary/VS/include\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/ucrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/um\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/shared\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/winrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/cppwinrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/NETFXSDK/4.8/Include/um\"  -D _DEBUG  -D _MT  -D _DLL  -D ME_PLATFORM_WINDOWS  -D _WINDLL  -D _UNICODE  -D UNICODE -std=c++17  \"d:/dev/mEngine/Example/src/exapmlebox.cpp\"",
+    "file": "d:/dev/mEngine/Example/src/exapmlebox.cpp"
+  }
+]
